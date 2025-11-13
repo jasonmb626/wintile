@@ -6,7 +6,8 @@
 	"settings-schema":"org.gnome.shell.extensions.wintile",
 	"shell-version": [
 		"43",
-		"44"
+		"44",
+		"49"
 	],
 	"version": 19
 }
